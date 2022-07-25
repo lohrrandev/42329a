@@ -1,0 +1,18 @@
+{
+  "post": {
+    "authorIds": [
+      2,
+      3
+    ],
+    "id": 3,
+    "likes": 10,
+    "popularity": 0.7,
+    "reads": 32,
+    "tags": [
+      "travel",
+      "airbnb",
+      "vacation"
+    ],
+    "text": "new text"
+  }
+}

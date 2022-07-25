@@ -1,0 +1,17 @@
+{
+  "post": {
+    "authorIds": [
+      1,
+      5
+    ],
+    "id": 1,
+    "likes": 12,
+    "popularity": 0.19,
+    "reads": 5,
+    "tags": [
+      "travel",
+      "vacation"
+    ],
+    "text": "my text"
+  }
+}
